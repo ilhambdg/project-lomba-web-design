@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url('gambar/homepage.jpg');
+    background-size: cover; /* Mengisi seluruh div dengan gambar */
+    background-position: 150px 2px; /* Menjaga gambar tetap di tengah */
+    background-repeat: no-repeat; /* Agar gambar tidak diulang */
+  }
+
+.bg-colour{
+    background: linear-gradient(to bottom, #add8e6, #ffffff);
+   
+}
+
+.p-20 {
+    padding: 140px;
+}
+
+.space {
+    height: 1000px;
+}
